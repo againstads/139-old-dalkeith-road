@@ -1,0 +1,11 @@
+/*
+!/.gitignore
+!/.nojekyll
+!/README.md
+!/THIRD_PARTY_NOTICES.txt
+!/index.html
+!/robots.txt
+!/assets/
+/_safe_to_delete/
+/safe_to_delete/
+/do_not_delete/
